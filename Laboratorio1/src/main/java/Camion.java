@@ -2,7 +2,7 @@ public class Camion extends Vehiculo {
     public Camion(double combustible, double capacidadTanque, double consumo) {
         super(combustible, capacidadTanque, consumo);
     }
-
+    @Override
     public void recargar(double litros) {
         double currentTankSpace = this.capacidadTanque - this.combustible;
         if(currentTankSpace - litros < 0) {
