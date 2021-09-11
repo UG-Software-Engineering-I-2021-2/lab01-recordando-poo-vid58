@@ -1,24 +1,0 @@
-
-+cs.lab1.Vehiculo#viaje(D)Ljava/lang/String;o
-e/Users/david/IdeaProjects/lab01-recordando-poo-vid58/Laboratorio1/src/main/java/cs/lab1/Vehiculo.java& &("2"1* 
-2o
-e/Users/david/IdeaProjects/lab01-recordando-poo-vid58/Laboratorio1/src/main/java/cs/lab1/Vehiculo.java* *(G"©
-o
-e/Users/david/IdeaProjects/lab01-recordando-poo-vid58/Laboratorio1/src/main/java/cs/lab1/Vehiculo.java* *(H64
-2 Vehiculo necesita reabastecimiento de combustible*Ç
-1o
-e/Users/david/IdeaProjects/lab01-recordando-poo-vid58/Laboratorio1/src/main/java/cs/lab1/Vehiculo.java, ,(Â
-¿
-o
-e/Users/david/IdeaProjects/lab01-recordando-poo-vid58/Laboratorio1/src/main/java/cs/lab1/Vehiculo.java. .(r
-%0java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
-java.lang.String*<:
-8 Vehiculo viajo %.1f km y aun tiene %.2f de combustible.*
-""*
-"""‹
-o
-e/Users/david/IdeaProjects/lab01-recordando-poo-vid58/Laboratorio1/src/main/java/cs/lab1/Vehiculo.java. .(s
-
-%0java.lang.String:
-""B
-cs.lab1.Vehiculo

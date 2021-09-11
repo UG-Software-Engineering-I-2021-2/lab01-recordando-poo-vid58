@@ -1,23 +1,0 @@
-
-/cs.lab1.Automovil#recargar(D)Ljava/lang/String;p
-f/Users/david/IdeaProjects/lab01-recordando-poo-vid58/Laboratorio1/src/main/java/cs/lab1/Automovil.java ("2"1*¥
-2p
-f/Users/david/IdeaProjects/lab01-recordando-poo-vid58/Laboratorio1/src/main/java/cs/lab1/Automovil.java (J"­
-p
-f/Users/david/IdeaProjects/lab01-recordando-poo-vid58/Laboratorio1/src/main/java/cs/lab1/Automovil.java (K97
-5 No  se  puede  reabastecer  el  tanque,  esta  lleno*»
-1p
-f/Users/david/IdeaProjects/lab01-recordando-poo-vid58/Laboratorio1/src/main/java/cs/lab1/Automovil.java (´
-±
-p
-f/Users/david/IdeaProjects/lab01-recordando-poo-vid58/Laboratorio1/src/main/java/cs/lab1/Automovil.java (g
-%0java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
-java.lang.String*53
-1 La cantidad de combustible del vehiculo es: %.2f*
-"""Œ
-p
-f/Users/david/IdeaProjects/lab01-recordando-poo-vid58/Laboratorio1/src/main/java/cs/lab1/Automovil.java (h
-
-%0java.lang.String:
-""B
-cs.lab1.Automovil
